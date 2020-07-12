@@ -1,21 +1,17 @@
-# django-crud-example
-A simple crud in django
+# Billing System
+Billing system using Django.
 
-Demo:
+## Deployment
+Not deployed yet.
 
-- [Heroku](https://polar-waters-34271.herokuapp.com/)
+## Tools Used
 
-Used:
-
-- Django 2
+- Django
 - Bootstrap 4
 
-Get Started:
-
+## Usage
 ```
-#in env
-
-$ sudo pip install -r requirements.txt
+$ pip install -r requirements.txt
 
 $ ./manage.py migrate
 
